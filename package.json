@@ -1,0 +1,19 @@
+{
+  "name": "github-auto-deploy",
+  "version": "1.0.0",
+  "description": "Automatic deployment of web applications via GitHub Webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/napon/github-auto-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/napon/github-auto-deploy/issues"
+  },
+  "homepage": "https://github.com/napon/github-auto-deploy#readme"
+}
